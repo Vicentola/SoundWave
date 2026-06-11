@@ -1,0 +1,20 @@
+{
+    "songs": [
+        {
+            "title": "Bohemian Rhapsody",
+            "artist": "Queen",
+            "album": "A Night at the Opera",
+            "duration": 354.0,
+            "genre": "Rock",
+            "play_count": 0
+        },
+        {
+            "title": "Billie Jean",
+            "artist": "Michael Jackson",
+            "album": "Thriller",
+            "duration": 294.0,
+            "genre": "Pop",
+            "play_count": 0
+        }
+    ]
+}
